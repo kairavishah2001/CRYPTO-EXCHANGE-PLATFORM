@@ -1,0 +1,13 @@
+label {
+left: 200px;
+top: -33px;
+display: flex;
+  align-items: left;
+  justify-content: space-between;
+  cursor: pointer;
+  width: 100px;
+  height: 50px;
+
+  position: relative;
+
+}

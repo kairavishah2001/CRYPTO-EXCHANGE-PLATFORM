@@ -1,0 +1,330 @@
+label {
+position: absolute;
+width: 149px;
+height: 18px;
+left: 250px;
+top: 27px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 18px;
+
+color: #A5A2B8;
+}
+
+.link {
+position: absolute;
+width: 345px;
+height: 36px;
+left: 250px;
+top: 85px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-style: normal;
+font-weight: bold;
+font-size: 28px;
+line-height: 36px;
+text-transform: uppercase;
+
+color: #000000;
+}
+
+.box1 {
+position: absolute;
+width: 864px;
+height: 333px;
+left: 250px;
+top: 150px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+}
+
+.line1 {
+
+position: absolute;
+width: 279px;
+height: 0px;
+left: 150px;
+top: 170px;
+
+border: 1px dashed #000000;
+transform: rotate(90deg);
+
+
+}
+
+.line2 {
+
+position: absolute;
+width: 279px;
+height: 0px;
+left: 450px;
+top: 170px;
+
+border: 1px dashed #000000;
+transform: rotate(90deg);
+
+
+}
+
+.sub1 {
+position: absolute;
+width: 207px;
+height: 23px;
+left: 50px;
+top: 270px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 23px;
+
+color: #000000;
+
+}
+
+.sub2 {
+position: absolute;
+width: 207px;
+height: 23px;
+left: 360px;
+top: 270px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 23px;
+
+color: #000000;
+
+}
+
+.sub3 {
+position: absolute;
+width: 207px;
+height: 23px;
+left: 710px;
+top: 270px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 23px;
+
+color: #000000;
+
+}
+.bank {
+position: absolute;
+
+left: 42px;
+top: 40px;
+}
+
+.wallet {
+position: absolute;
+
+left: 331px;
+top: 42px;
+}
+
+.more {
+position: absolute;
+
+left: 692px;
+top: 130px;
+}
+
+.balance{
+position: absolute;
+width: 345px;
+height: 36px;
+left: 250px;
+top: 516px;
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 28px;
+line-height: 36px;
+text-transform: uppercase;
+
+color: #000000;
+
+}
+
+.box2 {
+position: absolute;
+width: 272px;
+height: 158px;
+left: 250px;
+top: 580px;
+
+background: #FFFFFF;
+border-radius: 10px;
+
+filter: drop-shadow(0px 4px 20px rgba(0, 0, 0, 0.28));
+
+}
+.box3 {
+position: absolute;
+width: 272px;
+height: 158px;
+left: 580px;
+top: 580px;
+
+background: #FFFFFF;
+border-radius: 10px;
+
+filter: drop-shadow(0px 4px 20px rgba(0, 0, 0, 0.28));
+
+}
+
+.dollar {
+position: absolute;
+width: 1230px;
+height: 31px;
+left: 320px;
+top: 600px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 31px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.04em;
+text-decoration-line: underline;
+
+color: #000000;
+
+}
+
+.bitcoin {
+position: absolute;
+width: 1230px;
+height: 31px;
+left: 670px;
+top: 600px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 31px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.04em;
+text-decoration-line: underline;
+
+color: #000000;
+}
+
+.sign1 {
+position: absolute;
+
+left: 270px;
+top: 650px;
+}
+
+.sign2 {
+position: absolute;
+
+left: 605px;
+top: 650px;
+}
+
+.rightsideBar {
+position: absolute;
+width: 300px;
+height: 800px;
+left: 1162px;
+top: 0px;
+
+background: #F9F9F9;
+}
+
+.graphBar{
+position: absolute;
+width: 610px;
+height: 221px;
+left: 1000px;
+top: 325px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.28);
+border-radius: 10px;
+transform: rotate(-90deg);
+
+}
+
+.stats {
+position: absolute;
+width: 345px;
+height: 47px;
+left: 1129px;
+top: 70px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 30px;
+line-height: 47px;
+/* identical to box height */
+
+text-align: center;
+text-transform: uppercase;
+
+color: #000000;
+
+
+}
+
+.price {
+position: absolute;
+width: 345px;
+height: 23px;
+left: 1220px;
+top: 150px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: regular;
+font-size: 18px;
+line-height: 23px;
+
+color: #000000;
+
+}
+
+.line3 {
+position: absolute;
+width: 30.7px;
+height: 0px;
+left: 1215.19px;
+top: 180px;
+
+border: 1px solid #000000;
+}
+
+.bitcoinPrice {
+position: absolute;
+width: 150px;
+height: 45px;
+left: 1201px;
+top: 181px;
+font-weight: regular;
+font-size: 12px;
+line-height: 45px;
+color: #000000;
+}
