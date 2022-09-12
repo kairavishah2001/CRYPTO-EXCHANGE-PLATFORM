@@ -1,4 +1,4 @@
-[![Site preview](PREVIEW.png)]
+![Site preview](PREVIEW.png)
 
 ## Install & run
 
