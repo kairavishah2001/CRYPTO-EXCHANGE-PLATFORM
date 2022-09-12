@@ -19,7 +19,7 @@ class Home extends React.Component {
             <Route path="/home" exact>
               <Dashboard
 
-              />
+            />
             </Route>
             <Route path="/send&receive" component={Transaction}></Route>
             <Route exact path='/settings/profile' component={Profile} />
